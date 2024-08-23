@@ -24,7 +24,7 @@ serde_json = "1.0.3"
 
 [dependencies.diesel]
 features = ["postgres"]
-version = "0.16.0"
+version = "2.2.3"
 
 [dependencies.diesel_codegen]
 features = ["postgres"]
